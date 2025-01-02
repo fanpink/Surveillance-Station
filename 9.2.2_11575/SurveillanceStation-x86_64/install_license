@@ -32,13 +32,13 @@ sleep 5
 
 
 # 处理每个文件
-process_file /var/packages/SurveillanceStation/target/lib  libssutils.so    https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/libssutils.so     0644
-process_file /var/packages/SurveillanceStation/target/sbin sscmshostd       https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/sscmshostd        0755
-process_file /var/packages/SurveillanceStation/target/sbin sscored          https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/sscored           0755
-process_file /var/packages/SurveillanceStation/target/sbin ssdaemonmonitord https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssdaemonmonitord  0755
-process_file /var/packages/SurveillanceStation/target/sbin ssexechelperd    https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssexechelperd     0755
-process_file /var/packages/SurveillanceStation/target/sbin ssroutined       https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssroutined        0755
-# process_file /var/packages/SurveillanceStation/target/sbin ssrtmpclientd    https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssrtmpclientd     0755
+process_file /var/packages/SurveillanceStation/target/lib  libssutils.so    https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/libssutils.so     0644
+process_file /var/packages/SurveillanceStation/target/sbin sscmshostd       https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/sscmshostd        0755
+process_file /var/packages/SurveillanceStation/target/sbin sscored          https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/sscored           0755
+process_file /var/packages/SurveillanceStation/target/sbin ssdaemonmonitord https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssdaemonmonitord  0755
+process_file /var/packages/SurveillanceStation/target/sbin ssexechelperd    https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssexechelperd     0755
+process_file /var/packages/SurveillanceStation/target/sbin ssroutined       https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssroutined        0755
+# process_file /var/packages/SurveillanceStation/target/sbin ssrtmpclientd    https://ghgo.xyz/https://github.com/ohyeah521/Surveillance-Station/raw/main/9.2.2_11575/SurveillanceStation-x86_64/ssrtmpclientd     0755
 
 
 sleep 5
